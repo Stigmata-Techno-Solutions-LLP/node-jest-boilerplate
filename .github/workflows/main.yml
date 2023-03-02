@@ -12,7 +12,7 @@ on:
 jobs:
   build:
 
-    runs-on: code8
+    runs-on: ubuntu-latest
 
     strategy:
       matrix:
